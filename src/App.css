@@ -1,0 +1,25 @@
+table {
+  background-color: #000fff;
+  font-size: small;
+}
+
+th {
+  white-space: nowrap;
+  color: aqua;
+  text-align: center;
+  vertical-align: center;
+}
+
+
+@media (max-width: 768px) {
+  .table-container {
+    overflow-x: auto;
+  }
+  table {
+    font-size: x-small;
+  }
+}
+
+
+
+

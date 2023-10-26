@@ -1,0 +1,42 @@
+{
+    "submittals": [
+      {
+        "status": "Closed",
+        "id": 8001,
+        "spec": "ORD12345",
+        "revision":1,
+        "title":"Title 1",
+        "type":"Type 1",
+        "priority":"Normal",
+        "dueDate": "2023-10-30",
+        "ballInCourt": "John Doe",
+        "address": "123 Main St, Anytown, USA"
+        
+      },
+      {
+        "status": "In Progress",
+        "id": 8002,
+        "spec": "ORD12346",
+        "revision":0,
+        "title":"Title 2",
+        "type":"Type 2",
+        "priority":"High",
+        "dueDate": "2023-11-02",
+        "ballInCourt": "Jane Smith",
+        "address": "456 Elm St, Anytown, USA"
+  
+      },
+      {
+        "status": "Pending",
+        "id": 8003,
+        "spec": "ORD12347",
+        "revision":1,
+        "title":"Title 3",
+        "type":"Type 3",
+        "priority":"Low",
+        "dueDate": "2023-11-05",
+        "ballInCourt": "Alice Johnson",
+        "address": "789 Oak St, Anytown, USA"
+      }
+    ]
+  }
